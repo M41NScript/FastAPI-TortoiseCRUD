@@ -1,0 +1,11 @@
+__pycache__/
+__pycache__/*
+dto/
+    __pycache__/
+    __pycache__/*
+models/
+    __pycache__/
+    __pycache__/*
+routes/
+    __pycache__/
+    __pycache__/*
